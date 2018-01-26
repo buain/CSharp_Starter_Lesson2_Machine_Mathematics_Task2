@@ -1,0 +1,7 @@
+D:\NET\Projects\Lesson2_2\Task2\Task2\bin\Release\Task2.exe.config
+D:\NET\Projects\Lesson2_2\Task2\Task2\bin\Release\Task2.exe
+D:\NET\Projects\Lesson2_2\Task2\Task2\bin\Release\Task2.pdb
+D:\NET\Projects\Lesson2_2\Task2\Task2\obj\Release\Task2.csprojResolveAssemblyReference.cache
+D:\NET\Projects\Lesson2_2\Task2\Task2\obj\Release\Task2.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson2_2\Task2\Task2\obj\Release\Task2.exe
+D:\NET\Projects\Lesson2_2\Task2\Task2\obj\Release\Task2.pdb
